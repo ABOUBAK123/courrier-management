@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/bootstrap/cache/*.php
+/runtime/
+/logs/
+/.idea/
+.env
+.env.backup
+.phpunit.result.cache
+Dockerfile
+docker-compose.yml
